@@ -7,6 +7,12 @@ farkındalığını artırmaktır.
 
 ---
 
+## Uygulama Görünümü
+
+![Türkiye Yangın Haritası](screenshot.png)
+
+---
+
 ## Proje Hakkında
 
 Bu uygulama, uydu tabanlı termal algılama sistemlerinden elde edilen
